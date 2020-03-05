@@ -7,10 +7,10 @@ export default function Footer() {
     <header id="header">
       <h1>{config.heading}</h1>
       <p>
-        {' '}Servicii Web pentru sistemul educational din Romania - <a href="mailto:contact@invat.eu">contact@invat.eu</a>
+        {' '}Servicii Web pentru sistemul educational romanesc - <a href="mailto:contact@invat.eu">contact@invat.eu</a>
         <br />
-        {' '}Proiecte:{' '}
-        <a target="_blank" rel="noopener noreferrer" href="https://gradinita-veseliei.ro/">Gradinita Veseliei</a>
+        {' '}Acceseaza <a href="https://blog.invat.eu">blog</a>
+        {' '} sau ultimul proiect: <a target="_blank" rel="noopener noreferrer" href="https://gradinita-veseliei.ro/">Gradinita Veseliei</a>
       </p>
     </header>
   );
