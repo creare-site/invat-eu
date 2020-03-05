@@ -17,6 +17,8 @@ Servicii web pentru sistemul educational din Romania.
 
 - [Gradinita Veseliei Navodari](https://gradinita-veseliei.ro/) - website creat pe platforma GatsbyJS 
 
+<br />
+
 ## Contact
 
 - eMail < **contact@invat.eu** > 
