@@ -16,7 +16,7 @@ module.exports = {
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://www.facebook.com/invat.eu',
+      url: 'https://www.facebook.com/invat.gratuit',
     },
     {
       icon: 'fa-github',
