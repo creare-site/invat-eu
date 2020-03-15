@@ -17,7 +17,7 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; <a href="https://www.listafirme.ro/rosoft-business-srl-35622162/">ROSOFT BUSINESS SRL</a> - RO35622162</li>
+        <li>&copy; <a href="https://rosoftware.ro">RoSoft - Companie romaneasca de tehnologie</a></li>
       </ul>
     </footer>
   );
