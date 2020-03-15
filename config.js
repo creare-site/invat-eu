@@ -19,6 +19,11 @@ module.exports = {
       url: 'https://www.facebook.com/invat.gratuit',
     },
     {
+      icon: 'fa-youtube',
+      name: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCmBkV5zSI1tXoaej-jY7LKw',
+    },
+    {
       icon: 'fa-github',
       name: 'Github',
       url: 'https://github.com/creare-site/invat-eu',
